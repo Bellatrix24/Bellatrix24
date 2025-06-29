@@ -6,7 +6,7 @@
 </p>
 
 ---
-# 🌺 About Me:
+# 💮 About Me:
 💻 I’m a recent Computer Science graduate from SRM Institute of Science & Technology.<br>🧠 I’ve worked on projects involving Generative AI, Computer Vision, and Data Engineering.<br>🚀 I love building AI-powered tools—recently built a gesture-based media controller, a sentiment analysis system, and a real-time election data analyzer.<br>🔬 Currently diving deeper into model optimization and practical AI applications for healthcare and governance.<br>🛠️ I'm building intelligent systems using Python, TensorFlow, PyTorch, OpenCV, and wrapping it all with a sprinkle of LangChain, HuggingFace, and cloud tech like AWS & GCP.
 
 
